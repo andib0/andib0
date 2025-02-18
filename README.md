@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.j
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andib0&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
