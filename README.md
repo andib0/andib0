@@ -1,16 +1,11 @@
-# Hi there, I'm Andi 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E5&width=435&lines=Hey%2C+I'm+Andi!;React+%7C+Next.js+%7C+React+Native+Developer;Building+Awesome+Apps!)
 
 Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.js** developer with experience in building scalable, efficient, and user-friendly applications. I love working with modern web and mobile technologies to create seamless digital experiences.
 
-## 🚀 Technologies I Work With
-
-### Main Technologies
+## Technologies I Work With
 
 ![JavaScript](https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TS-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Front End Technologies
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -28,5 +23,5 @@ Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.j
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/andibasha)
 
 
-Let's build something awesome together!
+Don't hesitate to reach out if you have any inquiries, project ideas, or opportunities to discuss.
 
