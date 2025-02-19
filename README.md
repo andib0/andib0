@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E5&width=435&lines=Hey%2C+I'm+Andi!;React+%7C+Next.js+%7C+React+Native+Dev;Building+accessible,+human-centered+products!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E5&width=435&lines=Hey%2C+I'm+Andi!;React+%7C+Next.js+%7C+React+Native+Dev;Building+accessible,\n+human-centered+\nproducts!)
 
 Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.js** developer with experience in building scalable, efficient, and user-friendly applications. I love working with modern web and mobile technologies to create seamless digital experiences.
 
