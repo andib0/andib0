@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.j
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://github.com/andib0">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=tokyonight&hide_rank=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/andib0">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=andib0&layout=compact&langs_count=8&card_width=250&theme=tokyonight" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=andib0&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </div>
 
