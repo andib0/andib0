@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.j
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=tokyonight" />
+    <img height="180" width="50%" src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andib0&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height="180" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andib0&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </p>
 
