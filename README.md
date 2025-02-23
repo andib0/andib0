@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.j
 
 ## 📫 Connect with Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/andib0)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/andibasha)
+-  [GitHub](https://github.com/andib0)
+-  [LinkedIn](https://linkedin.com/in/andibasha)
 
 
 Don't hesitate to reach out if you have any inquiries, project ideas, or opportunities to discuss.
