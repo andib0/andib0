@@ -1,8 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E5&width=435&lines=Hey%2C+I'm+Andi!;React+%7C+Next.js+%7C+React+Native+Dev;Building+human-centered+apps!)
+Passionate **react, react native, and next** developer with experience in building scalable, efficient, and user-friendly applications.
+I love working with modern web and mobile technologies to create seamless digital experiences.
 
-Welcome to my GitHub profile! I'm a passionate **React, React Native, and Next.js** developer with experience in building scalable, efficient, and user-friendly applications. I love working with modern web and mobile technologies to create seamless digital experiences.
-
-## Technologies I Work With
+## Technologies I Work/ed With
 
 ![JS](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript&logoColor=white)
