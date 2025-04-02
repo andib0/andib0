@@ -16,12 +16,13 @@ I love working with modern web and mobile technologies to create seamless digita
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://github.com/andib0">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=graywhite" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=vue" />
   </a>
   <a href="https://github.com/andib0">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=andib0&layout=compact&langs_count=8&theme=graywhite" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=andib0&layout=compact&langs_count=8&theme=vue" />
   </a>
 </div>
+
 
 
 
