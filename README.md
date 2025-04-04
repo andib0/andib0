@@ -3,16 +3,17 @@ I love working with modern web and mobile technologies to create seamless digita
 
 ## Technologies I Work/ed With
 
-![JS](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TS](https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-000000?style=for-the-badge&logo=mui&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JS](https://img.shields.io/badge/JS-282828?style=for-the-badge&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/TS-282828?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-282828?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282828?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-282828?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-282828?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-282828?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://github.com/andib0">
