@@ -31,11 +31,11 @@ I love working with modern web and mobile technologies to create seamless digita
 
 
 
-## 📫 Connect with Me
+## Connect with Me
 
--  [GitHub](https://github.com/andib0)
--  [LinkedIn](https://linkedin.com/in/andibasha)
-
+[![GitHub](https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andib0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andibasha)
 
 Don't hesitate to reach out if you have any inquiries, project ideas, or opportunities to discuss.
+
 
