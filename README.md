@@ -1,5 +1,4 @@
 // andi basha <br/>
-// js engineer · (surviving) rust <br/>
-// occasionally vibing <br/>
+// js engineer · rust · <br/>
 // prishtina, kosovo <br/>
 // linkedin.com/in/andibasha<br/>
